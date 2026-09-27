@@ -1,0 +1,13 @@
+{
+  "name": "run_right",
+  "start": 0,
+  "end_exclusive": 24,
+  "loop": true,
+  "cell": [
+    128,
+    128
+  ],
+  "padding": 8,
+  "columns": 6,
+  "resample": "lanczos"
+}

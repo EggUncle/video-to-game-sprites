@@ -1,0 +1,19 @@
+{
+  "matte": {
+    "threshold": 42,
+    "edge_softness": 24,
+    "corner_tolerance": 35,
+    "largest_component": false,
+    "min_component_area": 12,
+    "decontaminate_radius": 3,
+    "decontaminate_tolerance": 50,
+    "alpha_floor": 0.15,
+    "enclosed_key_threshold": 20,
+    "enclosed_min_area": 8,
+    "neutral_fringe_cleanup": false,
+    "shadow": {"enabled": false}
+  },
+  "loop_min_frames": 14,
+  "loop_max_frames": 32,
+  "loop_margin_frames": 6
+}

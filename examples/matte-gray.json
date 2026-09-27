@@ -1,0 +1,11 @@
+{
+  "matte": {
+    "threshold": 32,
+    "edge_softness": 18,
+    "largest_component": true,
+    "shadow": {"enabled": false}
+  },
+  "loop_min_frames": 14,
+  "loop_max_frames": 32,
+  "loop_margin_frames": 6
+}
